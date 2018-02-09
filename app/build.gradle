@@ -104,7 +104,7 @@ dependencies {
 
     // Leak Canary
     debugImplementation leakCanaryDebug
-//    releaseCompile leakCanaryRelease
+    releaseCompile leakCanaryRelease
 
     // Misc
     implementation versions
